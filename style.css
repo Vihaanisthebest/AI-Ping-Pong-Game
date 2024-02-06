@@ -38,3 +38,10 @@ body
     font-style: italic;
     font-size: 20px
 }
+
+.modal-body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 15px;
+}
