@@ -45,3 +45,11 @@ body
     font-style: italic;
     font-size: 15px;
 }
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 5px 5px 5px grey;
+}
